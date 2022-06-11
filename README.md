@@ -11,12 +11,12 @@ Para llevar a cabo la ejecución del proyecto se deben tener en cuenta las sigui
 - Los datos deben estar en el DataLake de AWS
 
 Los notebooks se deben correr en el siguiente orden:
-01_Descripcion_BaseFormulada.ipynb
-01_Descripcion_ServComple.ipynb
-02_Limpieza_BaseFormulada.ipynb
-02_Limpieza_ServComplementarios.ipynb
-03_InnerJoin.ipynb
-04_Descripcion_TablaUnida.ipynb
-05_Modelos_PrecioInflacion.ipynb
-05_Modelos_PrecioDeflaccionado.ipynb
+* 01_Descripcion_BaseFormulada.ipynb
+* 01_Descripcion_ServComple.ipynb
+* 02_Limpieza_BaseFormulada.ipynb
+* 02_Limpieza_ServComplementarios.ipynb
+* 03_InnerJoin.ipynb
+* 04_Descripcion_TablaUnida.ipynb
+* 05_Modelos_PrecioInflacion.ipynb
+* 05_Modelos_PrecioDeflaccionado.ipynb
 
